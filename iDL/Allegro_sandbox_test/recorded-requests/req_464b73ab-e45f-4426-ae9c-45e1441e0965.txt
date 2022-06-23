@@ -1,0 +1,12 @@
+GET https://allegro.pl.allegrosandbox.pl/favicon.ico HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+accept: image/avif,image/webp,*/*
+accept-language: pl,en-US;q=0.7,en;q=0.3
+accept-encoding: gzip, deflate, br
+referer: https://allegro.pl.allegrosandbox.pl/dla-sprzedajacych
+cookie: wdctx=v4.pwwLG15xLqwDPG6VZBYuYatC-RnReQqG9HBfi-22vrdjkhN-MtCAC4OhFPeBHlujt53YIdEecaLyhkRFuWf6IbSZA13HFw3i0FtJptIbwv3PZVUAgtFJD0gUDgAtjq9JQCiiTYgU7qPI6tVaDBOdnAWF-gH6ImUPqeQDqjUhKkSkvLoSyJX50q44PsGLUkRWEH57x0_em5kGKpRXO9l2qxiEcuLuvabr3prqUENwtK2e2ujjc6BDIRQwzMc; datadome=pmAXNT.NzVr-jqMsb_xPLnoct4P1f0C7qNFq4UviJ3y82cpA0mN6f.YLmDUEvl0OZgoV1RVpW1iFoEI95nKS6nM5CMZzfsYw9epr22015r7Cql_PiTgvsXlAyn1C.4b; _cmuid=bdedb85a-ec61-42ad-ae42-0ed5677605a4; __gfp_64b=AbWMkUHxafFRlVvlg2yvbbCzOfUlWbJfFbdRo8uXTor._7|1655709376; TEST_QXLSESSID=02bcf56cc69ca91b0f3d86975c93f49e59fbc40a155a17//01; ws3=LFr3hAdVIF7E6DZdTKFxilJl0UR61YqmA; _gcl_au=1.1.1672672256.1655709389; gdpr_permission_given=1; _ga_G64531DSC4=GS1.1.1655709393.1.1.1655709523.53; _ga=GA1.2.981183684.1655709393; _tt_enable_cookie=1; _ttp=6d69ddbd-9a23-4500-bc60-6d4ff71cc317; _gid=GA1.2.1619234396.1655709397; _gat_UA-2827377-1=1; lang=pl-PL
+sec-fetch-dest: image
+sec-fetch-mode: no-cors
+sec-fetch-site: same-origin
+te: trailers
+

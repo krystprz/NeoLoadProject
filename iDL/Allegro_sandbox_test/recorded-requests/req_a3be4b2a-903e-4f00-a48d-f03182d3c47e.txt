@@ -1,0 +1,12 @@
+GET https://cdn.allegrostatic.com.allegrosandbox.pl/company-registration/polyfills-0d764062.js HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+accept: */*
+accept-language: pl,en-US;q=0.7,en;q=0.3
+accept-encoding: gzip, deflate, br
+referer: https://allegro.pl.allegrosandbox.pl/rejestracja/konto-firmowe?origin_url=%2F
+cookie: datadome=bhqOopgCrU2YXi91ARPdaDCFMT5Cj0QrneVYblFZPyps11-HdRzNSWMRvozR2aHWD.gxSvMY6.7yoz4j3TFHO..E8j0.dlI8LiOW7Cadx8l~lsjSPrmSm.fbaOmzHFc; __gfp_64b=AbWMkUHxafFRlVvlg2yvbbCzOfUlWbJfFbdRo8uXTor._7|1655709376; _gcl_au=1.1.1672672256.1655709389; _ga_G64531DSC4=GS1.1.1655709393.1.1.1655709523.53; _ga=GA1.2.981183684.1655709393; _tt_enable_cookie=1; _ttp=6d69ddbd-9a23-4500-bc60-6d4ff71cc317; _gid=GA1.2.1619234396.1655709397; _gat_UA-2827377-1=1
+sec-fetch-dest: script
+sec-fetch-mode: no-cors
+sec-fetch-site: same-site
+te: trailers
+

@@ -1,0 +1,14 @@
+OPTIONS https://edge.allegro.pl.allegrosandbox.pl/companies/completion/enabled HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+accept: */*
+accept-language: pl,en-US;q=0.7,en;q=0.3
+accept-encoding: gzip, deflate, br
+access-control-request-method: GET
+access-control-request-headers: content-type
+referer: https://allegro.pl.allegrosandbox.pl/rejestracja/konto-firmowe/nowe-konto
+origin: https://allegro.pl.allegrosandbox.pl
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-site
+te: trailers
+

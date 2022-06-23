@@ -1,0 +1,11 @@
+GET https://a.allegroimg.com/original/122180/20799df0408198ded7d97a1c0167 HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+accept: image/avif,image/webp,*/*
+accept-language: pl,en-US;q=0.7,en;q=0.3
+accept-encoding: gzip, deflate, br
+referer: https://allegro.pl.allegrosandbox.pl/
+sec-fetch-dest: image
+sec-fetch-mode: no-cors
+sec-fetch-site: cross-site
+te: trailers
+

@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Allegro_sandbox_test
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.0.1
+project.is-open-test-settings-after-upload=false
+project.id=85835d12-e284-4844-b017-926700f5b126
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+product.version=8.0.2
+project.workspace=62b47103777d83297ebc5e1e
+project.test-settings=a3cb766c-fe21-46eb-9d69-8fae79ebb1c0

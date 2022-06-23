@@ -1,0 +1,14 @@
+GET https://allegro.pl.allegrosandbox.pl/rejestracja?origin_url=%2F HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+accept: application/vnd.opbox-web.subtree+json
+accept-language: pl,en-US;q=0.7,en;q=0.3
+accept-encoding: gzip, deflate, br
+referer: https://allegro.pl.allegrosandbox.pl/rejestracja?origin_url=%2F
+x-box-id: dKyMtQIVSx-YCp8qbHqxyw==QF9nzJVZQlCB3_3j9GR37w==
+x-view-id: a9f69656-3a7c-4565-84e3-015979d21c42
+cookie: wdctx=v4.pwwLG15xLqwDPG6VZBYuYatC-RnReQqG9HBfi-22vrdjkhN-MtCAC4OhFPeBHlujt53YIdEecaLyhkRFuWf6IbSZA13HFw3i0FtJptIbwv3PZVUAgtFJD0gUDgAtjq9JQCiiTYgU7qPI6tVaDBOdnAWF-gH6ImUPqeQDqjUhKkSkvLoSyJX50q44PsGLUkRWEH57x0_em5kGKpRXO9l2qxiEcuLuvabr3prqUENwtK2e2ujjc6BDIRQwzMc; datadome=.9BmPKv.MEXNbTAJk_vU8dSj5X4o8cooY5i4ZuzztwVrIrr0x8Gaudg-diomZdrcQarRqoFTIJh7juE0L7pSuVD97r_.P9KwdZymI8Ze15bg1cRF3.OZkA0zI11PUJbK; _cmuid=bdedb85a-ec61-42ad-ae42-0ed5677605a4; __gfp_64b=AbWMkUHxafFRlVvlg2yvbbCzOfUlWbJfFbdRo8uXTor._7|1655709376; TEST_QXLSESSID=02bcf56cc69ca91b0f3d86975c93f49e59fbc40a155a17//01; ws3=LFr3hAdVIF7E6DZdTKFxilJl0UR61YqmA; _gcl_au=1.1.1672672256.1655709389; gdpr_permission_given=1; _ga_G64531DSC4=GS1.1.1655709393.1.1.1655709448.5; _ga=GA1.2.981183684.1655709393; _tt_enable_cookie=1; _ttp=6d69ddbd-9a23-4500-bc60-6d4ff71cc317; _gid=GA1.2.1619234396.1655709397
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+te: trailers
+
